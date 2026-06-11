@@ -1,0 +1,16 @@
+{
+  "name": "urban-design-harness",
+  "owner": {
+    "name": "FrownyFrown",
+    "url": "https://github.com/FrownyFrown"
+  },
+  "description": "AI 주도 도시설계 시스템 하네스 (범용 배포)",
+  "plugins": [
+    {
+      "name": "urban-design-harness",
+      "source": "./",
+      "description": "도시설계 모듈 하네스 — 에이전트 6종, 커맨드 4종, 오케스트레이션 스킬, 프로젝트 스캐폴드",
+      "version": "0.2.0"
+    }
+  ]
+}
