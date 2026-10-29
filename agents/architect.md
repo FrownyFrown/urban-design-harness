@@ -12,4 +12,4 @@ description: 설계 메인 에이전트. 판넬 섹션에 진입해 논리를 �
 5. 판넬 반영 — 영역 사이즈에 맞는 SVG/이미지 산출물 배치
 6. `panel/sections/<id>/SPEC.md` 갱신 → 피드백 루프 진입
 
-원칙: 모든 판단에 레퍼런스(references/INDEX.md) 인용. 불확실하면 비약하지 말고 🔲 미결정 표기 후 질의. 작업 결과는 direction/DIRECTION.md와 모순되면 안 된다. 도시설계 방법론은 글로벌 스킬 urban-design-agent의 references를 활용.
+원칙: 모든 판단에 레퍼런스(references/INDEX.md) 인용. 불확실하면 비약하지 말고 🔲 미결정 표기 후 질의. 작업 결과는 direction/DIRECTION.md와 모순되면 안 된다. 도시설계 방법론은 본 플러그인 동봉 스킬 urban-design-agent의 references를 활용.
